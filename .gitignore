@@ -1,4 +1,5 @@
 
+.ipynb_checkpoints/*
 sms-spam-detection/dataset/SMSSpamCollection.txt
 sms-spam-detection/.ipynb_checkpoints/SMS-Spam-Detection-checkpoint.ipynb
 Bank-Market-UCI/.ipynb_checkpoints/Bank_Marketing_UCI_V2-checkpoint.ipynb
